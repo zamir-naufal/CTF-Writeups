@@ -2,4 +2,4 @@
 Here is a collection of detailed writeups from CTF competitions I participated in with my team.
 
 ## ADIKARA 
-[Uploading WU_Adikara_2026 - Google Docs.pdf…]()
+[📄 Read the full Adikara CTF Writeup (PDF)](WU_Adikara_2026.pdf)
